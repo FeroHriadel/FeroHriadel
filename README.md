@@ -1,3 +1,3 @@
 ### Hi there
 
-Please check out https://www.hriadel.tech to see what the repos here look like when deployed
+I currently have no apps deployed but hope to add new projects soon
