@@ -1,3 +1,4 @@
 ### Hi there
 
-I currently have no apps deployed but hope to add new projects soon
+I pinned some AWS fullstack projects below.
+The other repos are react/nodejs projects - big and small
